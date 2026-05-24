@@ -1,4 +1,4 @@
----
+‰---
 type: "page"
 title: "Donate"
 subtitle: "Your support is vital to enhance and promote QGIS as an essential tool for the global GIS community"
